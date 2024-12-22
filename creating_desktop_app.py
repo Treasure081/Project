@@ -14,7 +14,7 @@ entry_text.pack()
 
 result=StringVar()
 result_label=Label(window,textvariable=result)
-result_label.pack()
+result_label.pack()cr
 
 tiv_dictionary={
     "kwaghyan":"food",
