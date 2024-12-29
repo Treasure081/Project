@@ -1,15 +1,11 @@
 tiv_dictionary={
-    "kwaghyan":"food",
-    "hunda":"door",
-    "gbenda":"road",
-    "yem":"go",
     "va":"come",
+    "yem":"go",
+    "kwaghyan":"food",
     "kujera":"stool",
-    "usu":"light",
+    "boki":"friend",
     "guwa":"leg",
-    "ashe":"eyes",
+    "we":"hand",
+    "ashe":"eye",
     "zwa":"mouth"
 }
-
-word = input("Enter a word in tiv:")
-print(tiv_dictionary[word])
